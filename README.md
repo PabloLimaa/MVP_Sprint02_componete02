@@ -1,5 +1,5 @@
 ## Minha API em REST construída para Sistema de Agendamento de Cortes para Barbearia
-Este projeto é uma aplicação desenvolvida como parte do material didático da disciplina Desenvolvimento Full Stack Básico oferecida pela PUC-Rio. O sistema foi criado para demonstrar e aplicar conceitos fundamentais de desenvolvimento front-end adquiridos durante o curso.
+Este projeto é uma aplicação desenvolvida como parte do material didático da disciplina Desenvolvimento Full Stack oferecida pela PUC-Rio. O sistema foi criado para demonstrar e aplicar conceitos fundamentais de desenvolvimento back-end adquiridos durante o curso.
 
 ## Objetivo
 O objetivo aqui é apresetar uma API emplementada seguindo o estilo REST para servir como backend para um sistema de barbearia.
